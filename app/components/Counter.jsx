@@ -1,9 +1,10 @@
 var React = require('react');
+var Clock = require('Clock');
 
 var Counter = (props) => {
   return (
     <div>
-      <h3>Counter</h3>
+      <Clock totalSeconds={129}/>
     </div>
   )
 };
