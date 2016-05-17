@@ -21,7 +21,7 @@ var Navigation = () => {
       <div className="top-bar-right">
         <ul className="menu">
           <li className="menu-text">
-            Created by Soleil
+            Created by 이재홍
           </li>
         </ul>
       </div>
